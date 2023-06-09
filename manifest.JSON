@@ -1,0 +1,10 @@
+{
+    "name": "CF Question Chooser",
+    "description": "Choose a problem set Tag and this extension suggests you the question based on your Code-Forces rating",
+    "version": "1.0",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"assets/code-forces.png"
+    }
+}
